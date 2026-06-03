@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CardStack/static/css/main.044e1102.css",
-    "main.js": "/CardStack/static/js/main.b5b94d24.js",
+    "main.js": "/CardStack/static/js/main.d0e74a7c.js",
     "static/js/453.6f565e29.chunk.js": "/CardStack/static/js/453.6f565e29.chunk.js",
     "static/media/4.png": "/CardStack/static/media/4.b29f271ff2e929ae478e.png",
     "static/media/2.png": "/CardStack/static/media/2.f9f2d44186121d417406.png",
@@ -16,11 +16,11 @@
     "static/media/9.jpg": "/CardStack/static/media/9.6e3f168b013d5236ea18.jpg",
     "index.html": "/CardStack/index.html",
     "main.044e1102.css.map": "/CardStack/static/css/main.044e1102.css.map",
-    "main.b5b94d24.js.map": "/CardStack/static/js/main.b5b94d24.js.map",
+    "main.d0e74a7c.js.map": "/CardStack/static/js/main.d0e74a7c.js.map",
     "453.6f565e29.chunk.js.map": "/CardStack/static/js/453.6f565e29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.044e1102.css",
-    "static/js/main.b5b94d24.js"
+    "static/js/main.d0e74a7c.js"
   ]
 }
