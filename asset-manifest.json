@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CardStack/static/css/main.044e1102.css",
+    "main.js": "/CardStack/static/js/main.b5b94d24.js",
+    "static/js/453.6f565e29.chunk.js": "/CardStack/static/js/453.6f565e29.chunk.js",
+    "static/media/4.png": "/CardStack/static/media/4.b29f271ff2e929ae478e.png",
+    "static/media/2.png": "/CardStack/static/media/2.f9f2d44186121d417406.png",
+    "static/media/7.png": "/CardStack/static/media/7.229ddb7b8e830c16d05b.png",
+    "static/media/3.png": "/CardStack/static/media/3.3d909cbfe5aef1a5b165.png",
+    "static/media/1.jpg": "/CardStack/static/media/1.5535c41f989ba3d62336.jpg",
+    "static/media/2.jpg": "/CardStack/static/media/2.20cfa23abbd60d8eece8.jpg",
+    "static/media/8.jpg": "/CardStack/static/media/8.deab3a5b693a1ca3acce.jpg",
+    "static/media/3.jpg": "/CardStack/static/media/3.6c93b9430db7523f5209.jpg",
+    "static/media/5.jpg": "/CardStack/static/media/5.c963367c74c15ef40aeb.jpg",
+    "static/media/6.jpg": "/CardStack/static/media/6.7c225c0aef0ff8c4fbc9.jpg",
+    "static/media/9.jpg": "/CardStack/static/media/9.6e3f168b013d5236ea18.jpg",
+    "index.html": "/CardStack/index.html",
+    "main.044e1102.css.map": "/CardStack/static/css/main.044e1102.css.map",
+    "main.b5b94d24.js.map": "/CardStack/static/js/main.b5b94d24.js.map",
+    "453.6f565e29.chunk.js.map": "/CardStack/static/js/453.6f565e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044e1102.css",
+    "static/js/main.b5b94d24.js"
+  ]
+}
