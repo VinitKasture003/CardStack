@@ -1,24 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import { Stack } from './Components/CardStack/CardStack.jsx';
+import RococoBackground from './Components/RococoBg/RococoBg.jsx';
+import { UseUniqueSessionId } from './Hooks/UseUniqeSessionId.js';
 
 function App() {
+  UseUniqueSessionId();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <RococoBackground>
+        <div className='container' >
+          <br />
+          <br />
+          <br />
+          <br />
+          <Stack />
+        </div>
+      </RococoBackground>
+    </>
   );
 }
 
